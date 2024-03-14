@@ -3,7 +3,7 @@ package FigurasGeometricas;
 public class Circulo {
     int radio;
 
-    Circulo(int radio){
+    public Circulo(int radio){
         this.radio = radio;
     }
 
